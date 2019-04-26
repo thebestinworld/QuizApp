@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">Play</string>
+    <string name="d">answerD</string>
+    <string name="c">answerC</string>
+    <string name="b">answerB</string>
+    <string name="a">answerA</string>
+    <string name="try_again">Try again?</string>
+    <string name="username">Username</string>
+    <string name="score">Score</string>
+    <string name="category">Category</string>
+</resources>
